@@ -1,0 +1,53 @@
+[
+  {
+    "id": "0",
+    "name": "Blue Eyes White Dragon",
+    "image": "blue-eyes.jpg",
+    "attack": "3000",
+    "defense": "2500",
+    "price": "199.99",
+    "series": "Legend of Blue Eyes",
+    "description": "A legendary dragon that takes pride in its enormous power. Its power of destruction far exceeds comprehension. This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale."
+  },
+  {
+    "id": "1",
+    "name": "Dark Magician",
+    "image": "dark-magician.jpg",
+    "attack": "2500",
+    "defense": "2100",
+    "price": "180.99",
+    "series": "Legend of Blue Eyes",
+    "description": "A sinister spellcaster who possesses both power and defense. He is among the best of all Magicians. The ultimate wizard in terms of attack and defense. The ultimate wizard in terms of attack and didense."
+  },
+  {
+    "id": "2",
+    "name": "Red Eyes Black Dragon",
+    "image": "red-eyes.jpg",
+    "attack": "2400",
+    "defense": "2000",
+    "price": "300.00",
+    "series": "Legend of Blue Eyes",
+    "description": "A ferocious dragon with a deadly attack."
+  },
+  {
+    "id": "3",
+    "name": "Relinquished",
+    "image": "relinquished.jpg",
+    "attack": "0",
+    "defense": "0",
+    "price": "159.99",
+    "series": "Magic Ruler",
+    "description": "This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent."
+  },
+
+  {
+    "id": "4",
+    "name": "Exodia the Forbidden One",
+    "image": "exodia.jpg",
+    "attack": "inf",
+    "defense": "inf",
+    "price": "1000.00",
+    "series": "Legend of Blue Eyes",
+    "description": "The Beast you don't ever want to fuck with. This mothafucka can 1 shot all three Egyptian Gods at once."
+  }
+]
