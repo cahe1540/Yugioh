@@ -39,7 +39,6 @@
     "series": "Magic Ruler",
     "description": "This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent."
   },
-
   {
     "id": "4",
     "name": "Exodia the Forbidden One",
@@ -48,6 +47,6 @@
     "defense": "inf",
     "price": "1000.00",
     "series": "Legend of Blue Eyes",
-    "description": "The Beast you don't ever want to fuck with. This mothafucka can 1 shot all three Egyptian Gods at once."
+    "description": "Exodia, the Forbidden One"
   }
 ]
