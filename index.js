@@ -5,6 +5,8 @@ const url = require('url');
 
 const replaceTemplate = require(`./replaceTemplate`);
 
+/*Added a comment to practice checkout*/
+
 //read html template files
 const tmpCard = fs.readFileSync(`${__dirname}/templates/template-card.html`, 'utf-8');
 const tmpMonster = fs.readFileSync(`${__dirname}/templates/template-monster.html`, 'utf-8');
